@@ -1,1 +1,1 @@
-config inicial
+config inicial corregida
