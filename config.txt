@@ -1,1 +1,2 @@
 config inicial
+se agrega configuración mejorada
